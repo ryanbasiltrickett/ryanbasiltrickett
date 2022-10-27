@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ryan-trickett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-trickett" height="30" width="40" /></a>
 <a href="https://instagram.com/trickett.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trickett.x" height="30" width="40" /></a>
-<a href="https://discord.gg/ArmyBoy#0556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ArmyBoy#0556" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
