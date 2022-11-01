@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **COS214 Final Project**
 
-- 🌱 I’m currently learning **Design Patterns, Concurrency, Assembly and Discrete Structures**
+- 🌱 I’m currently learning **Design Patterns, Concurrency, Computer Architecture and Discrete Structures**
 
 - ⚡ Fun fact **I used to be a freelancer for small game development projects**
 
