@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Angular, AWS Services, and Java Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ryanbasiltrickett?tab=repositories](https://github.com/ryanbasiltrickett?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ryanbasiltrickett?tab=repositories)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ryan-trickett/](https://www.linkedin.com/in/ryan-trickett/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ryan-trickett/)
 
 - ⚡ Fun fact **I used to be a freelancer for small game development projects**
 
