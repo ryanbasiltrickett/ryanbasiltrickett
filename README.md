@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ryan Trickett</h1>
 <h3 align="center">I'm a Final Year Computer Science Student at the University of Pretoria</h3>
 
+<!---
 - 🔭 I’m currently working on [FridgeToPlate](https://github.com/COS301-SE-2023/FridgeToPlate)
 
 - 🌱 I’m currently learning **Angular, AWS Services, and Java Spring Boot**
+-->
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ryanbasiltrickett?tab=repositories)
 
