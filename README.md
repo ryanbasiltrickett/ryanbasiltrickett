@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Basil Trickett</h1>
 <h3 align="center">A junior software engineer from South Africa</h3>
 
-- 🔭 I’m currently working on **Standard Bank MVNO**
+- 🔭 I’m currently working on the **Standard Bank MVNO**
 
 - 🌱 I’m currently learning **AWS Services, Terraform, and Kubernetes**
 
